@@ -6,9 +6,9 @@ Super straight forward WordPress MU (must use) plugin or function for creating a
 
 Update these 3 variables:
 
-`$login = 'username';
-$passw = 'mysuperlongcomplicatedpassword';
-$email = 'webmin@example.com';`
+`$login = 'username';`
+`$passw = 'mysuperlongcomplicatedpassword';`
+`$email = 'webmin@example.com';`
 
 ### Installation
 
